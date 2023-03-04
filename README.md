@@ -1,6 +1,6 @@
 ## Hi, I'm <img width="5%" src="./img/p.png" ><img width="5%" src="./img/h.png"><img width="5%" src="./img/u.png"><img width="5%" src="./img/o.png"><img width="5%" src="./img/n.png"><img width="5%" src="./img/g.png"><br>
 
-<img align="right" src="./img/bongo.gif" width="40%" />
+<img align="right" src="./img/bongo.gif" width="35%" />
 
 <img width="4%" src="./img/kitty.png" /> &nbsp; &nbsp; I worked as a Software Engineer at Teksystems. Now, I'm looking for Frontend Software Engineer role. <br>
 <img width="4%" src="./img/idea.png" /> &nbsp; &nbsp; What I am going to learn this year: C++, system design, machine learning. <br>
