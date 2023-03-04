@@ -1,7 +1,14 @@
-### Hi there 👋
+## Hi, I'm <img width="5%" src=".img/p.png" ><img width="5%" src="./img/h.png"><img width="5%" src="./img/u.png"><img width="5%" src="./img/o.png"><img width="5%" src="./img/n.png"><img width="5%" src="./img/g.png">
 
-<!--
-**phuongv8/phuongv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="5%" src="./img/kitty.png" /> I'm a Software Engineer at Teksystems<br>
+
+<!-- - 💼 I'm a Software Engineer at Teksystems
+- 🔭 I’m working on React projects
+- 🤔 I am going to learn C++, machine learning
+- 😄 I like cute and comfy games, also escape rooms, horror games -->
+
+- <!--
+  **phuongv8/phuongv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
