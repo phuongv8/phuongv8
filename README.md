@@ -1,4 +1,4 @@
-## Hi, I'm <img width="5%" src=".img/p.png" ><img width="5%" src="./img/h.png"><img width="5%" src="./img/u.png"><img width="5%" src="./img/o.png"><img width="5%" src="./img/n.png"><img width="5%" src="./img/g.png">
+## Hi, I'm <img width="5%" src="./img/p.png" ><img width="5%" src="./img/h.png"><img width="5%" src="./img/u.png"><img width="5%" src="./img/o.png"><img width="5%" src="./img/n.png"><img width="5%" src="./img/g.png">
 
 <img width="5%" src="./img/kitty.png" /> I'm a Software Engineer at Teksystems<br>
 
