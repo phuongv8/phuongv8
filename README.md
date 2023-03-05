@@ -4,7 +4,7 @@
 
 <img width="4%" src="./img/kitty.png" /> &nbsp; &nbsp; I worked as a Software Engineer at Teksystems, and I'm currently looking for a Frontend Software Engineer role. <br>
 <img width="4%" src="./img/idea.png" /> &nbsp; &nbsp; I'm learning DSA, React, and system design. <br>
-<img width="4%" src="./img/coffee.png" /> &nbsp; &nbsp; If you're interested in chatting about transition to tech, coding, cats, or just life in general, let's connect! [Link to my Calendly](https://calendly.com/phuongv8/15min)<br>
+<img width="4%" src="./img/coffee.png" /> &nbsp; &nbsp; If you want to chat about transition to tech, coding, cats, or just life in general, let's connect! [Link to my Calendly](https://calendly.com/phuongv8/15min)<br>
 
 
 <!--
