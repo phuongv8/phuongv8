@@ -2,7 +2,7 @@
 
 <img align="right" src="./img/bongo.gif" width="35%" />
 
-<img width="4%" src="./img/kitty.png" /> &nbsp; &nbsp; an orange cat making cute little apps. <br>
+<img width="4%" src="./img/kitty.png" /> &nbsp; &nbsp; orange tortie cat making cute little apps. <br>
 <img width="4%" src="./img/idea.png" /> &nbsp; &nbsp; currently in coding school for cats. <br>
 
 
