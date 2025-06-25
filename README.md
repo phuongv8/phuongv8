@@ -4,7 +4,7 @@
 
 <img width="4%" src="./img/kitty.png" /> &nbsp; &nbsp; orange tortie cat making cute little apps. <br>
 <img width="4%" src="./img/idea.png" /> &nbsp; &nbsp; currently in coding school for cats. <br>
-
+<img width="4%" src="./img/detective.png" /> &nbsp; &nbsp; current role: The Glitchfinder of Westworld. <br>
 
 <!--
   **phuongv8/phuongv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
